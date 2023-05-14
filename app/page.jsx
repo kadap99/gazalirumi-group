@@ -1,3 +1,4 @@
+import About from "./component/about";
 import Gallery from "./component/gallery";
 import Hero from "./component/hero";
 
@@ -11,6 +12,10 @@ export default function Home() {
     <section id='gallery'>
       <Gallery />
     </section>
+
+    {/* <section id="about">
+      <About />
+    </section> */}
     </>
   )
 }
