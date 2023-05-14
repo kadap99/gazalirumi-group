@@ -11,7 +11,7 @@ function Gallery() {
             <Image 
             src={'/1.jpg'}
             width={500}
-            height={500}
+            height={600}
             alt="Picture of the author"
             className="rounded-xl"
             />
