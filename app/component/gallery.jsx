@@ -9,7 +9,7 @@ function Gallery() {
       <div className="flex items-center justify-center px-10 ">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-5 bg-gallery p-10 rounded-xl shadow-lg mb-10">
             <Image 
-            src={'/1.jpg'}
+            src={'/5.jpg'}
             width={500}
             height={600}
             alt="Picture of the author"
